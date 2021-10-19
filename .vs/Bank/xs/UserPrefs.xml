@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{7A8E95CE-4D96-47FF-A2A4-8BDA71402343}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bank/BankAccount.cs">
+    <Files>
+      <File FileName="Bank/BankAccount.cs" Line="59" Column="1" />
+      <File FileName="BankTest/UnitTest1.cs" Line="9" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bank" expanded="True">
+            <Node name="Bank" expanded="True">
+              <Node name="BankAccount.cs" selected="True" />
+            </Node>
+            <Node name="BankTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Bank" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>BankUNitTests/BankUNitTests.csproj</String>
+    <String>BankUT/BankUT.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

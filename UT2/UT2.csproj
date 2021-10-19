@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="NUnit3TestAdapter" />
+    <None Remove="NUnit" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NUnit3TestAdapter" Version="4.0.0" />
+    <PackageReference Include="NUnit" Version="3.13.2" />
+  </ItemGroup>
+</Project>
